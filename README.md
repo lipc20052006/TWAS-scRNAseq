@@ -11,3 +11,5 @@
 4-DAPseq.sh         #DAPseq for bZIP89
 
 5-WGS.sh           # call variants for 164 inbred lines
+
+6-xgboost8TF100iteration.py  #Machine learning models for trait prediction
